@@ -2,7 +2,7 @@
 ##
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2BE2FF&center=falso&vCenter=falso&multiline=true&repeat=falso&width=1500&lines=Eu+sou+o+Vinicio+Andrade+e+sou+um+desenvolvedor+freelancer+que+adora+tecnologia+e+programa%C3%A7%C3%A3o." alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2BE2FF&center=falso&vCenter=falso&multiline=true&repeat=falso&width=1500&lines=Atualmente+estou+me+tornando+um+desenvolvedor+full+stack+e+trabalhando+com+linguagens+como%3A" alt="Typing SVG" /></a>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E),![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white),![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ##
 <picture>
 <source
