@@ -25,7 +25,7 @@
                 54.48% {
                     fill: var(--c3)
                 }
-
+    
                 54.5%,
                 to {
                     fill: var(--ce)
