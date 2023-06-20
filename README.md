@@ -12,14 +12,14 @@
 | **Banco de Dados**                              | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 | **Ferramentas**                                 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<div>
 <picture>
         <div>
         <a href="https://github.com/ViniMortinho">
-            <img height="180em"
-
-                src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-            <img height="180em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=16&theme=dark" />
+            <img height="200em"src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+            <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=16&theme=dark" />
     </div>
+    
 
 </picture>
+</div>
