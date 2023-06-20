@@ -31,4 +31,14 @@
 </div>
 
 
+## Meus principais repositórios
+
+- [![README](https://img.shields.io/badge/README-Repository-blue)](https://github.com/ViniMortinho/ViniMortinho)
+- [![GIT](https://img.shields.io/badge/GIT-Repository-orange)](https://github.com/ViniMortinho/Git)
+- [![C#](https://img.shields.io/badge/C%23-Repository-brightgreen)](https://github.com/ViniMortinho/Start-C-Sharp)
+- [![JAVA SCRIPT](https://img.shields.io/badge/JavaScript-Repository-yellow)](https://github.com/ViniMortinho/Java-Script)
+- [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Repository-red)](https://github.com/ViniMortinho/html-css)
+
+
+
 
