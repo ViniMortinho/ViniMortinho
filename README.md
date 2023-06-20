@@ -30,14 +30,28 @@
   </div>
 </div>
 
-
 ## Meus principais repositórios
 
-- [![README](https://img.shields.io/badge/README-Repository-blue)](https://github.com/ViniMortinho/ViniMortinho)
-- [![GIT](https://img.shields.io/badge/GIT-Repository-orange)](https://github.com/ViniMortinho/Git)
-- [![C#](https://img.shields.io/badge/C%23-Repository-brightgreen)](https://github.com/ViniMortinho/Start-C-Sharp)
-- [![JAVA SCRIPT](https://img.shields.io/badge/JavaScript-Repository-yellow)](https://github.com/ViniMortinho/Java-Script)
-- [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Repository-red)](https://github.com/ViniMortinho/html-css)
+- [![README](https://img.shields.io/badge/README-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ViniMortinho/ViniMortinho)
+- [![GIT](https://img.shields.io/badge/GIT-Repository-orange?style=for-the-badge&logo=git)](https://github.com/ViniMortinho/Git)
+- [![C#](https://img.shields.io/badge/C%23-Repository-brightgreen?style=for-the-badge&logo=csharp)](https://github.com/ViniMortinho/Start-C-Sharp)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-Repository-yellow?style=for-the-badge&logo=javascript)](https://github.com/ViniMortinho/Java-Script)
+- [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Repository-red?style=for-the-badge&logo=html5)](https://github.com/ViniMortinho/html-css)
+
+## Estatísticas dos Repositórios Mais Acessados
+
+<div>
+  <a href="https://github.com/ViniMortinho/Start-C-Sharp">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniMortinho&repo=Start-C-Sharp&theme=dark" />
+  </a>
+  <a href="https://github.com/ViniMortinho/Java-Script">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniMortinho&repo=Java-Script&theme=dark" />
+  </a>
+  <a href="https://github.com/ViniMortinho/ViniMortinho">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniMortinho&repo=ViniMortinho&theme=dark" />
+  </a>
+</div>
+
 
 
 
