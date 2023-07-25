@@ -1,9 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+black&size=22&pause=1000&color=0CF71D&width=435&lines=%3C+Fala+DeV!+Tudo+na+Paz%3F+%3E;%3C+Seja+Bem+Vindo+%3E+" alt="Typing SVG" /></a>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=57&pause=1000&color=08F700&center=falso&vCenter=falso&repeat=verdadeiro&width=800&height=100&lines=Faaala+Dev!+Tudo+na+paz%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=48&pause=1000&color=15CAF7&background=2BFF3200&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=1080&height=100&lines=Eu+sou+o+Vinicio+Andrade+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=48&duration=1000&pause=1000&color=15CAF7&background=2BFF3200&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=1080&height=100&lines=Full+stack+Freelancer" alt="Typing SVG" />
+</div>
 
 
-##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2BE2FF&center=falso&vCenter=falso&multiline=true&repeat=falso&width=1500&lines=Eu+sou+o+Vinicio+Andrade+e+sou+um+desenvolvedor+freelancer+que+adora+tecnologia+e+programa%C3%A7%C3%A3o." alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2BE2FF&center=falso&vCenter=falso&multiline=true&repeat=falso&width=1500&lines=Atualmente+estou+me+tornando+um+desenvolvedor+full+stack+e+trabalhando+com+linguagens+como%3A" alt="Typing SVG" /></a>
+
 <!--   my-skils -->
 | Property                                        | Data 
 --------------------------------------------------|--------------------------------------------
