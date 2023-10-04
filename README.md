@@ -16,7 +16,6 @@
 
   <div style="display: flex;">
   <div style="flex: 2:2">
-    <div>
       <a <a href="https://github.com/ViniMortinho">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
       </a>
@@ -24,7 +23,6 @@
        <a href="https://github.com/ViniMortinho">
         <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=6&theme=dark" />
       </a>
-    </div>
   </div>
 
 
