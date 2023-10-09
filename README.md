@@ -16,10 +16,10 @@
 
   <div style="display: flex;">
   <a href="https://github.com/ViniMortinho">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/ViniMortinho">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=6&theme=dark" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=6&theme=dark" />
   </a>
 </div>
 
