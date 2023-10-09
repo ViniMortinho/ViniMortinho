@@ -24,6 +24,10 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## Meus principais repositórios
 
 - [![README](https://img.shields.io/badge/README-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ViniMortinho/ViniMortinho)
