@@ -15,9 +15,7 @@
 | **Ferramentas**                                 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
   <div style="display: flex;">
-  <a href="https://github.com/ViniMortinho">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
+
   <a href="https://github.com/ViniMortinho">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=6&theme=dark" />
   </a>
