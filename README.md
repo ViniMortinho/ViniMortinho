@@ -1,7 +1,6 @@
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=57&pause=1000&color=08F700&center=falso&vCenter=falso&repeat=verdadeiro&width=800&height=100&lines=Faaala+Dev!+Tudo+na+paz%3F" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=48&pause=1000&color=15CAF7&background=2BFF3200&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=1080&height=100&lines=Eu+sou+o+Vinicio+Andrade+" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=48&duration=1000&pause=1000&color=15CAF7&background=2BFF3200&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=1080&height=100&lines=Full+stack+Freelancer" alt="Typing SVG" />
 </div>
 
 
