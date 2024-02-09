@@ -61,4 +61,8 @@
 
 
 
+<div>
+  <img src="https://raw.githubusercontent.com/ViniMortinho/ViniMortinho/output/snake.svg" alt="Snake animation" />
 
+###
+</div>
