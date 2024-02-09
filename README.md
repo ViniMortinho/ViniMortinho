@@ -31,15 +31,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ## Meus principais repositórios
 
 - [![README](https://img.shields.io/badge/README-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ViniMortinho/ViniMortinho)
