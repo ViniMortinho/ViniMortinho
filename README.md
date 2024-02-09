@@ -1,4 +1,10 @@
-<div>
+<div align="left">
+
+  <img src="https://profile-counter.glitch.me/ViniMortinho/count.svg?"  />
+</div>
+
+###
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=100&size=57&pause=1000&color=08F700&center=falso&vCenter=falso&repeat=verdadeiro&width=800&height=100&lines=Faaala+Dev!+Tudo+na+paz%3F" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=48&pause=1000&color=15CAF7&background=2BFF3200&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=1080&height=100&lines=Eu+sou+o+Vinicio+Andrade+" alt="Typing SVG" />
 </div>
@@ -14,7 +20,7 @@
 | **Ferramentas**                                 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
   <div style="display: flex;">
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniMortinho&show_icons=true&theme=dark&include_all_commits" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMortinho&layout=compact&langs_count=6&theme=dark" />
 </p>
@@ -62,7 +68,5 @@
 
 
 <div>
-  <img src="https://raw.githubusercontent.com/ViniMortinho/ViniMortinho/output/snake.svg" alt="Snake animation" />
-
-###
+  
 </div>
